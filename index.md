@@ -1,6 +1,7 @@
 ## Ryan's Guides
 
 This site is a collection of practical guides directed towards TJHSST students.
+
 ---
 
 ## Available Guides
