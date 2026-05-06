@@ -146,6 +146,6 @@ This is called **polarized training** and is the most supported approach for end
 
 ## Useful Resources
 
-- [YouTube Rowing Coach (Aram Training)](**https://www.youtube.com/c/fluidathlete**): Me and Samuel Bustamante both watch him
+- [YouTube Rowing Coach (Aram Training)](https://www.youtube.com/c/fluidathlete): Me and Samuel Bustamante both watch him
 
 ---
