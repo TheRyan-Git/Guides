@@ -1,6 +1,6 @@
 # Mass (Muscle) Gaining Guide
 
-Putting on weight (MUSCLE) is scienceable:training, nutrition, and recovery. This guide breaks down everything you need to know.
+Putting on weight (MUSCLE) is scienceable: training, nutrition, and recovery. This guide breaks down everything you need to know.
 
 ---
 
