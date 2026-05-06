@@ -39,10 +39,10 @@ A **scholarship** is **free money** awarded to students based on merit, need, id
 ## Where to Find Scholarships
 
 ### Free Search Engines
-- **[Fastweb](https://www.fastweb.com)** — large database, personalizable
-- **[Scholarships.com](https://www.scholarships.com)** — broad search tool
-- **[College Board Scholarship Search](https://bigfuture.collegeboard.org/scholarship-search)** — trusted source
-- **[Bold.org](https://bold.org)** — fast-growing, modern platform
+- **[Fastweb](https://www.fastweb.com)**: large database, personalizable
+- **[Scholarships.com](https://www.scholarships.com)**: broad search tool
+- **[College Board Scholarship Search](https://bigfuture.collegeboard.org/scholarship-search)**: trusted source
+- **[Bold.org](https://bold.org)**: fast-growing, modern platform
 
 ### School & Community Sources
 - Your high school's **guidance counselor** office
@@ -117,12 +117,12 @@ Set calendar reminders **2 weeks** and **3 days** before each deadline.
 
 ## Common Mistakes to Avoid
 
-- **Missing deadlines** — set alerts early
+- **Missing deadlines**: set alerts early
 - **Generic essays** that could apply to any scholarship
-- **Ignoring small scholarships** — $500 awards add up fast
+- **Ignoring small scholarships**: $500 awards add up fast
 - **Not following instructions** (wrong word count, missing documents)
-- **Applying to only big national scholarships** — local awards have far better odds
-- **Waiting until senior year** — many awards are OPEN to 9th–11th graders
+- **Applying to only big national scholarships**: local awards have far better odds
+- **Waiting until senior year**: many awards are OPEN to 9th–11th graders
 
 ---
 
@@ -130,7 +130,7 @@ Set calendar reminders **2 weeks** and **3 days** before each deadline.
 
 - [FAFSA (Free Application for Federal Student Aid)](https://studentaid.gov/h/apply-for-aid/fafsa)
 - [Khan Academy – Scholarships & Financial Aid](https://www.khanacademy.org/college-careers-more/college-admissions/making-college-happen/financial-aid-intro/a/scholarships)
-- [College Greenlight](https://www.collegegreenlight.com) — for underrepresented students
-- [Unigo](https://www.unigo.com/scholarships) — scholarship search + reviews
+- [College Greenlight](https://www.collegegreenlight.com): for underrepresented students
+- [Unigo](https://www.unigo.com/scholarships): scholarship search + reviews
 
 ---
