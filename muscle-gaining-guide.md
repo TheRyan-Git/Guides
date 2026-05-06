@@ -17,11 +17,11 @@ Putting on weight (MUSCLE) is scienceable: training, nutrition, and recovery. Th
 
 ## Training: How to Structure Your Workouts
 
-**Key rule:** You must LIFT to near **muscular failure** (1–3 reps before you can't do another).
+**Key rule: ** You must LIFT to near **muscular failure** (1–3 reps before you can't do another).
 
 ### Compound vs. Isolation Movements
-- **Compound lifts** (squat, bench press, deadlift, overhead press, rows) train multiple muscle groups simultaneously — do these.
-- **Isolation lifts** (curls, tricep pushdowns, lateral raises) allow targeted work — don't need if short on time.
+- **Compound lifts** (squat, bench press, deadlift, overhead press, rows) train multiple muscle groups simultaneously; do these.
+- **Isolation lifts** (curls, tricep pushdowns, lateral raises) allow targeted work. You don't need them if you are short on time.
 
 ---
 
@@ -30,10 +30,10 @@ Putting on weight (MUSCLE) is scienceable: training, nutrition, and recovery. Th
 ### Calories: Eat in a Surplus
 To build muscle, you need to eat **more calories than you burn** (a caloric surplus).
 
-- **Clean bulk:** ~200–300 calories above maintenance (slow, lean gains)
-- **Standard bulk:** ~300–500 calories above maintenance (moderate gains, some fat)
+- **Clean bulk: ** ~200–300 calories above maintenance (slow, lean gains)
+- **Standard bulk: ** ~300–500 calories above maintenance (moderate gains, some fat)
 
-- **Maintenance calories (rough estimate):** Put your info into a calculator (but they still are rough estimates)
+- **Maintenance calories (rough estimate): ** Put your info into a calculator (but they still are rough estimates)
 
 ### Protein: The Most Important Nutrient
 - Target: **0.7–1 gram of protein per pound of body weight per day**
@@ -44,7 +44,7 @@ To build muscle, you need to eat **more calories than you burn** (a caloric surp
 |------|-------------------|
 | Chicken breast (4 oz) | ~35g |
 | Greek yogurt (1 cup) | ~20g | YOGURT is what I use, 
-**Key idea:** It does not make you feel full, so you can eat more.
+**Key idea: ** It does not make you feel full, so you can eat more.
 | Eggs (3 whole) | ~18g |
 | Canned tuna (1 can) | ~25g |
 | Ground beef 93% lean (4 oz) | ~25g |
@@ -87,7 +87,7 @@ Every **6–10 weeks**, consider a deload week where you reduce training volume 
 
 ## Supplements
 
-The supplement industry is full of hype; be cautious. But these have been researched:
+The supplement industry is full of hype; be cautious. But these have been researched: 
 
 | Supplement | Benefit | Dose |
 |------------|---------|------|
@@ -96,7 +96,7 @@ The supplement industry is full of hype; be cautious. But these have been resear
 | **Caffeine** | Improves workout performance | 100–200mg pre-workout |
 | **Vitamin D** | Supports hormone function (many people are deficient) | 1,000–2,000 IU/day |
 
-**Skip:** Pre-workout, BCAAs, fat burners, testosterone boosters.
+**Skip: ** Pre-workout, BCAAs, fat burners, testosterone boosters.
 
 ---
 
@@ -104,22 +104,22 @@ The supplement industry is full of hype; be cautious. But these have been resear
 
 - **Not eating enough** - YOU MUST EAT
 - **Skipping compound lifts** in favor of only machines and isolation exercises
-- **Not tracking workouts** — how will you know it's working
-- **Changing programs constantly** — stick to it (~ 3 months)
+- **Not tracking workouts**: how will you know it's working
+- **Changing programs constantly**: stick to it (~ 3 months)
 - **Ignoring sleep and recovery**
-- **Skipping legs** — legs are the largest muscle group + training them releases HGH
-- **Using too much weight with poor form** — injury will destroy everything you built
+- **Skipping legs**: legs are the largest muscle group + training them releases HGH
+- **Using too much weight with poor form**: injury will destroy everything you built
 
 ---
 
 ## Tracking Progress
 
-Track these metrics monthly:
+Track these metrics monthly: 
 
 - **Body weight** (weigh daily, track the weekly average)
 - **Strength numbers** (what you're lifting on key lifts)
-- **Progress photos** (front, side, back — same lighting/time of day - not my style, but fine)
-- **Measurements** (chest, arms, waist, legs — optional but useful)
+- **Progress photos**: (front, side, back.) (Not my style, but it is fine)
+- **Measurements**: (chest, arms, waist, legs.) (Optional but useful)
 
 Muscle gain is slow: expect **1–2 lbs of muscle per month** as a natural beginner, and **0.5 lb or less** per month as an intermediate. Don't expect to see changes week to week; compare monthly.
 
