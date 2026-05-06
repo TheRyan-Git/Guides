@@ -134,5 +134,3 @@ Set calendar reminders **2 weeks** and **3 days** before each deadline.
 - [Unigo](https://www.unigo.com/scholarships) — scholarship search + reviews
 
 ---
-
-[← Back to Home](../)
