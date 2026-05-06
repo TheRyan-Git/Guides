@@ -124,5 +124,3 @@ Track these metrics monthly:
 Muscle gain is slow: expect **1–2 lbs of muscle per month** as a natural beginner, and **0.5 lb or less** per month as an intermediate. Don't expect to see changes week to week; compare monthly.
 
 ---
-
-[← Back to Home](../)
