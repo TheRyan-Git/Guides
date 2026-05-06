@@ -49,10 +49,10 @@ CATCH DRIVE FINISH RECOVERY
 > Common mistake: pulling with arms before legs are extended
 
 ### 2. The Drive
-The power phase — executed in strict order:
-1. **Legs push** — press the footboard away with your legs
-2. **Body swing** — once legs are ~75% extended, swing your body back through vertical to ~20° past vertical
-3. **Arms draw** — pull the handle to the lower chest/abdomen
+The power phase; executed in strict order:
+1. **Legs push**; press the footboard away with your legs
+2. **Body swing**; once legs are ~75% extended, swing your body back through vertical to ~20° past vertical
+3. **Arms draw**; pull the handle to the lower chest/abdomen
 
 > Common mistake: using arms and back too early.
 
@@ -65,7 +65,7 @@ The power phase — executed in strict order:
 > Common mistake: finishing too early
 
 ### 4. The Recovery
-The controlled return to the catch — executed in **reverse order** of the drive:
+The controlled return to the catch; executed in **reverse order** of the drive:
 1. Arms extend first
 2. Body rocks forward
 3. Knees compress (slide forward)
@@ -84,7 +84,7 @@ The controlled return to the catch — executed in **reverse order** of the driv
 | **Stroke seat** | Rower closest to the stern; sets the rhythm for the crew |
 | **Bow seat** | Rower closest to the bow (front of the boat) |
 | **Split** | Your average time to row 500 meters (shown as 2:00/500m, for example) |
-| **Rating (SPM)** | Strokes per minute — how many strokes the boat takes each minute |
+| **Rating (SPM)** | Strokes per minute; how many strokes the boat takes each minute |
 | **Drive ratio** | Ratio of drive time to recovery time (ideally ~1:2 or 1:2.5) |
 | **Feathering** | Rotating the oar blade from vertical (squared) to horizontal during recovery |
 | **Catching a crab** | When a blade gets stuck in the water, and the rower loses control of the oar |
@@ -95,10 +95,10 @@ The controlled return to the catch — executed in **reverse order** of the driv
 ## Technique Breakdown
 
 ### Common Coaching Cues
-- **"Legs-body-arms, arms-body-legs"** — the sequence of the drive and recovery
-- **"Don't shoot the slide"** — don't push with your legs and let your body get pulled forward.
-- **"Sit tall"** — avoid hunching; maintain a long, relaxed spine
-- **"Quiet hands at the catch"** — avoid splashing; clean blade entry matters
+- **"Legs-body-arms, arms-body-legs"**; the sequence of the drive and recovery
+- **"Don't shoot the slide"**; don't push with your legs and let your body get pulled forward.
+- **"Sit tall"**; avoid hunching; maintain a long, relaxed spine
+- **"Quiet hands at the catch"**; avoid splashing; clean blade entry matters
 
 ### Key Body Positions
 
@@ -134,13 +134,13 @@ This is called **polarized training** and is the most supported approach for end
 
 ## Common Mistakes
 
-- **Breaking the sequence** — using arms before the legs are finished
-- **Rushing the slide** — shooting the seat back too fast during recovery
-- **Hunching the back** at the catch — leads to injury and power loss
-- **Overtraining** — more volume without recovery leads to regression and injury
-- **Ignoring erg work** — water time alone isn't enough; erg training is essential
-- **Catching crabs** due to blade timing issues — stay relaxed at the catch
-- **Going out too hard** in a race — the middle 1000m is where races are won or lost
+- **Breaking the sequence**; using arms before the legs are finished
+- **Rushing the slide**; shooting the seat back too fast during recovery
+- **Hunching the back** at the catch; leads to injury and power loss
+- **Overtraining**; more volume without recovery leads to regression and injury
+- **Ignoring erg work**; water time alone isn't enough; erg training is essential
+- **Catching crabs** due to blade timing issues; stay relaxed at the catch
+- **Going out too hard** in a race; the middle 1000m is where races are won or lost
 
 ---
 
