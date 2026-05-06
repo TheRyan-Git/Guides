@@ -147,6 +147,6 @@ This is called **polarized training** and is the most supported approach for end
 ## Useful Resources
 
 - [YouTube Rowing Coach (Aram Training)](https://www.youtube.com/@AramTraining): Me and Samuel Bustamante both watch him
-- [Example Races (Ryan Ke)] (https://www.youtube.com/@RyanKe-i8h): My channel; you can find our past races here
+- [Example Races (Ryan Ke)](https://www.youtube.com/@RyanKe-i8h): My channel; you can find our past races here
 
 ---
