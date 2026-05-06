@@ -153,5 +153,3 @@ This is called **polarized training** and is the most supported approach for end
 - [Rowing Visualization (Fluid Athlete)](https://www.youtube.com/c/fluidathlete) — excellent technique videos on YouTube
 
 ---
-
-[← Back to Home](../)
