@@ -10,10 +10,10 @@ A collection of practical guides hosted on **GitHub Pages**.
 
 ## Guides
 
-- [Scholarship Guide](https://theryan-git.github.io/guides/scholarship-guide/)
-- [JHSST Survival Guide](https://theryan-git.github.io/guides/tjhsst-survival-guide/)
-- [Muscle-Gaining Guide](https://theryan-git.github.io/guides/muscle-gaining-guide/)
-- [Rowing Guide](https://theryan-git.github.io/guides/rowing-guide/)
+- [Scholarship Guide](https://theryan-git.github.io/guide/scholarship-guide/)
+- [TJHSST Survival Guide](https://theryan-git.github.io/guide/tjhsst-survival-guide/)
+- [Muscle-Gaining Guide](https://theryan-git.github.io/guide/muscle-gaining-guide/)
+- [Rowing Guide](https://theryan-git.github.io/guide/rowing-guide/)
 
 ---
 
