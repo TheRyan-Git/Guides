@@ -134,22 +134,18 @@ This is called **polarized training** and is the most supported approach for end
 
 ## Common Mistakes
 
-- ❌ **Breaking the sequence** — using arms before the legs are finished
-- ❌ **Rushing the slide** — shooting the seat back too fast during recovery
-- ❌ **Hunching the back** at the catch — leads to injury and power loss
-- ❌ **Overtraining** — more volume without recovery leads to regression and injury
-- ❌ **Ignoring erg work** — water time alone isn't enough; erg training is essential
-- ❌ **Catching crabs** due to blade timing issues — stay relaxed at the catch
-- ❌ **Going out too hard** in a race — the middle 1000m is where races are won or lost
+- **Breaking the sequence** — using arms before the legs are finished
+- **Rushing the slide** — shooting the seat back too fast during recovery
+- **Hunching the back** at the catch — leads to injury and power loss
+- **Overtraining** — more volume without recovery leads to regression and injury
+- **Ignoring erg work** — water time alone isn't enough; erg training is essential
+- **Catching crabs** due to blade timing issues — stay relaxed at the catch
+- **Going out too hard** in a race — the middle 1000m is where races are won or lost
 
 ---
 
 ## Useful Resources
 
-- [Concept2 Indoor Rower](https://www.concept2.com) — the standard erg brand, with training plans
-- [Row2k](https://www.row2k.com) — rowing news, college recruiting rankings, and results
-- [US Rowing](https://www.usrowing.org) — governing body for rowing in the US; youth programs, camps
-- [World Rowing](https://worldrowing.com) — international governing body (FISA); race results
-- [Rowing Visualization (Fluid Athlete)](https://www.youtube.com/c/fluidathlete) — excellent technique videos on YouTube
+- [YouTube Rowing Coach (Aram Training)](**https://www.youtube.com/c/fluidathlete**): Me and Samuel Bustamante both watch him
 
 ---
