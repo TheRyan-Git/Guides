@@ -23,8 +23,8 @@ Rowing is wonderfully demanding and complex. It requires full-body strength, car
 | Type | Description |
 |------|-------------|
 | **Sculling** | Each rower holds **two oars** (one in each hand). |
-| **Sweep Rowing** | Each rower holds **one oar** with both hands. Boats require even numbers of rowers. |
-| **Ergometer (Erg)** | Indoor rowing machine (Concept2 is the standard). Used for training and testing. |
+| **Sweep Rowing** | Each rower holds **one oar** with both hands.|
+| **Ergometer (Erg)** | Indoor rowing machine (Concept2 is the standard).|
 
 ### By Boat Type
 - **Sculling boats:** 1x (single), 2x (double), 4x (quad)
@@ -137,8 +137,7 @@ This is called **polarized training** and is the most supported approach for end
 - **Breaking the sequence**; using arms before the legs are finished
 - **Rushing the slide**; shooting the seat back too fast during recovery
 - **Hunching the back** at the catch; leads to injury and power loss
-- **Overtraining**; more volume without recovery leads to regression and injury
-- **Ignoring erg work**; water time alone isn't enough; erg training is essential
+- **Ignoring erg work**; water time does not make you fast; erg training is essential
 - **Catching crabs** due to blade timing issues; stay relaxed at the catch
 - **Going out too hard** in a race; the middle 1000m is where races are won or lost
 
