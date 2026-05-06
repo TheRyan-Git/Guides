@@ -5,6 +5,3 @@ Thomas Jefferson High School for Science and Technology (TJHSST, or just "TJ") i
 ---
 
 ## Table of Contents
-
-
-[← Back to Home](../)
