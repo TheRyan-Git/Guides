@@ -71,11 +71,11 @@ Most scholarship essays ask one of three core questions:
 - **Be specific**
 - **Show, don't tell.** Describe moments that reveal your character, instead of saying "I am great".
 - **Answer the actual prompt.** Re-read the prompt after drafting to ensure you addressed it directly (hint: they likely have a rubric that you can figure out from the prompt or website).
-- **End with a clear connection** between your goals and why this scholarship matters.
-- **Proofread ruthlessly.** Typos will destroy you.
+- **End with a clear connection** between your goals and why this scholarship matters. Name-drop if possible (but do it well).
+- **Proofread.** Typos will destroy you.
 
 ### Essay Length
-Most prompts ask for 250–650 words. Shorter prompts (100–250 words) require precision.
+Most prompts ask for 250–650 words. Shorter prompts are 100–250 words.
 
 ---
 
